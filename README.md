@@ -28,7 +28,7 @@ I'm passionate about DevOps, open source, and MLOps. My journey in the world of 
 ![](https://github-profile-trophy.vercel.app/?username=Aidevol&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=@DeveshT63888021)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=@codeqwest)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
