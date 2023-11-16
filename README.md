@@ -5,13 +5,12 @@ I'm passionate about DevOps, open source, and MLOps. My journey in the world of 
 
 ## 🚀 What I do
 
-- 💻 Currently working at [Your Current Company] as a [Your Position].
-- 🌐 Building awesome [Web/Mobile/Desktop] applications with [Your Tech Stack].
-- 🔍 Exploring the realms of [Any specific interests or technologies you are exploring].
+- 💻 Currently working at @Weboappdiscovery as a Python developer.
+- 🌐 Building awesome Micorservice applications/ Data Pipelinings with Apache kafka and Various others technologies.
+- 🔍 Exploring the realms of Artificial Intelligent.
 
-## 🌱 What I'm learning
-
-I believe in continuous learning, and right now, I'm diving into:
+  
+Let's connect, collaborate, and build something amazing together.
 
 
 
