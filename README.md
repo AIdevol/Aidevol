@@ -10,7 +10,7 @@ I'm passionate about DevOps, open source, and MLOps. My journey in the world of 
 - 🔍 Exploring the realms of Artificial Intelligent.
 
   
-Let's connect, collaborate, and build something amazing together.
+###  🤝 Let's connect, collaborate, and build something amazing together.
 
 
 
@@ -33,8 +33,6 @@ Let's connect, collaborate, and build something amazing together.
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Aidevol&icon=0&color=0)](https://visitcount.itsvg.in)
