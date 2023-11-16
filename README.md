@@ -1,5 +1,18 @@
 # 💫 About Me:
- "if I am a believer<>yes! condition accepted. 
+# 👋 Hello, I'm Devesh Tiwari!
+
+I'm passionate about DevOps, open source, and MLOps. My journey in the world of technology began in 2022, and I've been captivated by machine learning and deep learning technologies ever since.
+
+## 🚀 What I do
+
+- 💻 Currently working at [Your Current Company] as a [Your Position].
+- 🌐 Building awesome [Web/Mobile/Desktop] applications with [Your Tech Stack].
+- 🔍 Exploring the realms of [Any specific interests or technologies you are exploring].
+
+## 🌱 What I'm learning
+
+I believe in continuous learning, and right now, I'm diving into:
+
 
 
 ## 🌐 Socials:
