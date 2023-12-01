@@ -5,7 +5,7 @@ I'm passionate about DevOps, open source, and MLOps. My journey in the world of 
 
 ## 🚀 What I do
 
-- 💻 Currently working at @Weboappdiscovery as a Python developer.
+- 💻 Currently working at @Weboappdiscovery as a Software developer.
 - 🌐 Building awesome Micorservice applications/ Data Pipelinings with Apache kafka and Various others technologies.
 - 🔍 Exploring the realms of Artificial Intelligent.
 
