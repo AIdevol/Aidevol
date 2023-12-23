@@ -1,7 +1,7 @@
 # 💫 About Me:
 ## 👋 Hello, I'm Devesh Tiwari!
 
-I'm passionate about DevOps, open source, and MLOps. My journey in the world of technology began in 2022, and I've been captivated by machine learning and deep learning technologies ever since.
+I'm passionate about DevOps, open source,flutter devolopement and MLOps. My journey in the world of technology began in 2022, and I've been captivated by machine learning and deep learning technologies ever since.
 
 ## 🚀 What I do
 
