@@ -7,7 +7,7 @@ I'm passionate about DevOps, open source,Flutter devolopement and MLOps. My jour
 
 - 💻 Currently working at @Weboappdiscovery as a Software developer.
 - 🌐 Building awesome Micorservice applications/ Data Pipelinings with Apache kafka and Various others technologies.
-- 🔍 Exploring the realms of Artificial Intelligent.
+- 🔍 Exploring the realms of Artificial Intelligent. 
 
   
 ###  🤝 Let's connect, collaborate, and build something amazing together.
