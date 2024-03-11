@@ -48,12 +48,12 @@ Welcome to my GitHub profile! I'm passionate about technology and love to explor
 </div>
 
 ## 🏆 GitHub Trophies
-<div align="center">
+<div align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=Aidevol&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ## 🐦 Latest Tweet
-<div align="center">
+<div align="left">
   <a href="https://twitter.com/codeqwest">
     <img src="https://gtce.itsvg.in/api?username=@codeqwest" alt="Latest Tweet" />
   </a>
