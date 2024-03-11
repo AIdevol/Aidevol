@@ -22,6 +22,11 @@ I'm passionate about DevOps, open source, Flutter development, and MLOps. My jou
   <img src="https://github-readme-stats.vercel.app/api?username=Aidevol&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aidevol&theme=radical&hide_border=false" alt="GitHub Streak Stats" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aidevol&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Aidevol&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
