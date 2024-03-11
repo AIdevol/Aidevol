@@ -39,12 +39,12 @@ Welcome to my GitHub profile! I'm passionate about technology and love to explor
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge&logo=CircleCI&logoColor=white)
 
 ## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aidevol&theme=radical&hide_border=false&layout=compact" alt="Top Languages" />
-</div>
 
 <div align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aidevol&theme=radical&hide_border=false&layout=compact" alt="Top Languages" /><br>
   <img src="https://github-readme-stats.vercel.app/api?username=Aidevol&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aidevol&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+
 </div>
 
 ## 🏆 GitHub Trophies
