@@ -13,10 +13,10 @@ Welcome to my GitHub profile! I'm passionate about technology and love to explor
 
 <div align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,photoshop,xd,figma,vscode,androidstudio,git,github&theme=dark,jenkins" />
+    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,photoshop,xd,figma,vscode,androidstudio,git,github,django,djangorestframework,jenkins,docker,kubernetes&theme=dark,jenkins" />
   </a>
- 
 </div>
+
 
 
 ### Languages & Frameworks
