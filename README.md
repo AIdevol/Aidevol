@@ -1,3 +1,4 @@
+User
 # 👋 Hello, I'm Devesh Tiwari!
 
 Welcome to my GitHub profile! I'm passionate about technology and love to explore new ideas and concepts.
@@ -41,16 +42,16 @@ Welcome to my GitHub profile! I'm passionate about technology and love to explor
 ## 📊 GitHub Stats
 
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveshTiwari&theme=radical&hide_border=false&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=DeveshTiwari&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeveshTiwari&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aidevol&theme=radical&hide_border=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aidevol&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aidevol&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
 
 
 </div>
 
 ## 🏆 GitHub Trophies
 <div align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=DeveshTiwari&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Aidevol&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ## 🐦 Latest Tweet
@@ -67,7 +68,6 @@ Welcome to my GitHub profile! I'm passionate about technology and love to explor
 
 ---
 
-[![Visit Count](https://visitcount.itsvg.in/api?id=DeveshTiwari&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Visit Count](https://visitcount.itsvg.in/api?id=Aidevol&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
-
