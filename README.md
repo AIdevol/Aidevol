@@ -9,7 +9,9 @@ Welcome to my GitHub profile! I'm passionate about technology and love to explor
 - 🌐 Building Microservice applications/Data Pipelines with Apache Kafka and more
 - 🔍 Exploring the realms of Artificial Intelligence
 
-## 🌟 Tech Stack<div align="left">
+## 🌟 Tech Stack
+
+<div align="left">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,photoshop,xd,figma,vscode,androidstudio,git,github&theme=dark,jenkins" />
   </a>
