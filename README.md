@@ -1,4 +1,4 @@
-User
+
 # 👋 Hello, I'm Devesh Tiwari!
 
 Welcome to my GitHub profile! I'm passionate about technology and love to explore new ideas and concepts.
