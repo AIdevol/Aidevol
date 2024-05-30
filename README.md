@@ -41,7 +41,7 @@
   </a>
 
   <a href="https://zaap.bio/CodeWithFlexz" target="_blank" rel="noreferrer">
-  <img src="https://s3-eu-west-1.amazonaws.com/tpd/logos/60e537346fa87d00016b77cc/0x0.png" width="50" />
+  <img src="[https://s3-eu-west-1.amazonaws.com/tpd/logos/60e537346fa87d00016b77cc/0x0.png](https://icons8.com/icons/set/leetcode)" width="50" />
   </a>
   
 </div>
