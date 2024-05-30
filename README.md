@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is FlexZ, and I work as a Flutter developer. 🚀 Currently, I'm pursuing a degree in Software Engineering 📚, and I have a strong passion for Dart/Flutter. 💙 Right now, I'm actively involved in creating software and applications using Flutter. If you're interested, you can check out my portfolio on Instagram! 📱👀</p>
+<p align="left">My name is Devesh Tiwari, and I work as a Flutter developer. 🚀 Currently, I'm pursuing a degree in Software Engineering 📚, and I have a strong passion for Dart/Flutter. 💙 Right now, I'm actively involved in creating software and applications using Flutter. If you're interested, you can check out my portfolio on Linkdin! 📱👀</p>
 
 ###
 
@@ -12,7 +12,7 @@
 
 <div align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,photoshop,xd,figma,vscode,androidstudio,git,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,djangorestframework,java,figma,vscode,androidstudio,git,github&theme=dark" />
   </a>
  
 </div>
