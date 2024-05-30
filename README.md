@@ -40,8 +40,9 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 
-  <a href="https://zaap.bio/CodeWithFlexz" target="_blank" rel="noreferrer">
-  <img src="[https://s3-eu-west-1.amazonaws.com/tpd/logos/60e537346fa87d00016b77cc/0x0.png](https://icons8.com/icons/set/leetcode)" width="50" />
+  <a href="https://zaap.bio/CodeWithFlexz" target="_blank" rel="referrer">
+  <img src="![image](https://github.com/AIdevol/Aidevol/assets/113257456/63f4c370-5660-4c69-88e0-6eef22e138ab)
+" width="50" />
   </a>
   
 </div>
