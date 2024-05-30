@@ -41,8 +41,7 @@
   </a>
 
   <a href="https://zaap.bio/CodeWithFlexz" target="_blank" rel="referrer">
-  <img src="![image](https://github.com/AIdevol/Aidevol/assets/113257456/63f4c370-5660-4c69-88e0-6eef22e138ab)
-" width="50" />
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=webp&w=256" width="50" />
   </a>
   
 </div>
