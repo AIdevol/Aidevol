@@ -44,7 +44,7 @@
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=webp&w=256" width="50" />
   </a>
     <a href="https://hashnode.com/@devesht/" target="_blank" rel="referrer">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkqAKTs20xf-Euq1igoVFa0AmZuLbkXuDw3g&s" width="50" />
+  <img src="https://img.icons8.com/?size=256&id=HnB8zGOh5xgd&format=png" width="50" />
   </a>
 </div>
 
