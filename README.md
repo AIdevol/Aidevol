@@ -27,7 +27,7 @@
   <a href="https://instagram.com/nikdevt" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://www.youtube.com/c/ProgrammingWithFlexZ" target="_blank">
+  <a href="https://www.youtube.com/channel/UCMq1931b0lMSFhn2Xl6aVCw" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
   <a href="https://www.linkedin.com/in/devest/" target="_blank">
@@ -36,16 +36,19 @@
   <a href="https://tlgrm.in/know_tech$" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
+     <a href="https://hashnode.com/@devesht/" target="_blank" rel="referrer">
+  <img src="https://img.icons8.com/?size=256&id=HnB8zGOh5xgd&format=png" width="50" />
+  </a>
   <a href="https://devesht709@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-
+    <a href="https://medium.com/@devesht709/" target="_blank" rel="referrer">
+  <img src="https://img.icons8.com/?size=50&id=XVNvUWCvvlD9&format=png" width="50" />
+  </a>
   <a href="https://leetcode.com/u/devesht709/" target="_blank" rel="referrer">
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=webp&w=256" width="50" />
   </a>
-    <a href="https://hashnode.com/@devesht/" target="_blank" rel="referrer">
-  <img src="https://img.icons8.com/?size=256&id=HnB8zGOh5xgd&format=png" width="50" />
-  </a>
+
 </div>
 
 <h2 align="left" style="color:white;" >🔥 GitHub Stats</h2>
