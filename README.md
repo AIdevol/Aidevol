@@ -9,7 +9,7 @@
 <h2 align="left" style="color:white;" >💻 Tech Stack</h2>
 
 ###
-
+ 
 <div align="left">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,python,django,java,figma,vscode,androidstudio,git,github&theme=dark" />
