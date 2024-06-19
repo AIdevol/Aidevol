@@ -1,4 +1,4 @@
- <h1 align="left" style="color:white;" >Hey 👋 What's up?</h1>
+ <h1 align="left" style="color:white;" >Hey 👋 What's up?</h1> 
 
 ###
  
@@ -8,7 +8,7 @@
 
 <h2 align="left" style="color:white;" >💻 Tech Stack</h2>
 
-###
+###  
  
 <div align="left">
   <a href="#">
