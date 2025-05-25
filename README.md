@@ -2,7 +2,7 @@
 
 ###
  
-<p align="left">My name is Devesh Tiwari, and I work as a Flutter developer. 🚀 Currently, I'm pursuing a degree in Software Engineering 📚, and I have a strong passion for Dart/Flutter. 💙 Right now, I'm actively involved in creating software and applications using Flutter. If you're interested, you can check out my portfolio on LinkedIn! 📱👀</p>
+<p align="left">My name is Devesh Tiwari, and I work as a Flutter developer. 🚀 Currently, I'm a Software Engineering 📚, and I have a strong passion for Dart/Flutter. 💙 Right now, I'm actively involved in creating software and applications using Flutter. If you're interested, you can check out my portfolio on LinkedIn! 📱👀</p>
 
 ###
 
